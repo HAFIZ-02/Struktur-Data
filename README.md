@@ -1,1 +1,1 @@
-# Struktur-Data
+# Perkenalkan saya Hafiz Hafrienda sebagai mahasiswa pada Universitas Neegeri Padang, Prodi Teknik Informatika. Pada repository ini berisikan semua tugas yang telah saya pelajari dan cobakan pada semester 2 perkuliahan. 
