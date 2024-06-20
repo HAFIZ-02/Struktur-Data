@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/Uaxj062PavgqZRhVkS" width="480" height="314" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Uaxj062PavgqZRhVkS" width="480" height="314" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS">via GIPHY</a></p>
 </div>
 
 - 👋 Hi, I’m Hafiz Hafrienda
