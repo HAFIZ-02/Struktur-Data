@@ -1,7 +1,7 @@
 <h1>Perkenalkan saya Hafiz Hafrienda sebagai mahasiswa pada Universitas Neegeri Padang, Prodi Teknik Informatika. Pada repository ini berisikan semua tugas yang telah saya pelajari dan cobakan pada semester 2 perkuliahan.</h1>
 
 <table border="1" cellspasing="5" cellpadding="5" align="center">
-  <h1 align="center">Deskripsi Jobsheet</h1>
+  <h1 align="center">About my Josbsheet</h1>
     <tr>
       <td align="center"><h2>Jobsheet 01</h2></td>
       <td>Jobsheet ini membahas mengenai struktur data dan pengenalannya. Struktur data merupakan cara menyimpan dan mengatur data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan       
