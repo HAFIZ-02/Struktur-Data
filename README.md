@@ -2,9 +2,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
-- 👋 Hi, I’m Hafiz Hafrienda\n
-- 👀 I’m interested in making project with C\n 
-- 🌱 I’m currently learning Data Struct and this is my report\n
+- :telescope: I’m student collage of Software Engineer in Universitas Negeri Padang.
+
+- :seedling: I like to explore about C, and now i studied about Data struct .
+
+- :zap: I'm 19 y.o.
+
 
 <hr>
 <table border="1" cellspasing="5" cellpadding="5" align="center">
