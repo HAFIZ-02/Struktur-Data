@@ -1,4 +1,7 @@
-<h1>Perkenalkan saya Hafiz Hafrienda sebagai mahasiswa pada Universitas Neegeri Padang, Prodi Teknik Informatika. Pada repository ini berisikan semua tugas yang telah saya pelajari dan cobakan pada semester 2 perkuliahan.</h1>
+- 👋 Hi, I’m Hafiz Hafrienda
+- 👀 I’m interested in making project with C 
+- 🌱 I’m currently learning Data Struct and this is my report
+
 
 <table border="1" cellspasing="5" cellpadding="5" align="center">
   <h1 align="center">About my Josbsheet</h1>
