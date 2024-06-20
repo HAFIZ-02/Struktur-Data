@@ -4,7 +4,7 @@
 - 👀 I’m interested in making project with C 
 - 🌱 I’m currently learning Data Struct and this is my report
 
-
+<hr>
 <table border="1" cellspasing="5" cellpadding="5" align="center">
   <h1 align="center">About my Josbsheet</h1>
     <tr>
