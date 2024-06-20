@@ -1,4 +1,4 @@
-# Perkenalkan saya Hafiz Hafrienda sebagai mahasiswa pada Universitas Neegeri Padang, Prodi Teknik Informatika. Pada repository ini berisikan semua tugas yang telah saya pelajari dan cobakan pada semester 2 perkuliahan. 
+<h1>Perkenalkan saya Hafiz Hafrienda sebagai mahasiswa pada Universitas Neegeri Padang, Prodi Teknik Informatika. Pada repository ini berisikan semua tugas yang telah saya pelajari dan cobakan pada semester 2 perkuliahan.</h1>
 
 <table border="1" cellspasing="5" cellpadding="5" align="center">
   <h1 align="center">Deskripsi Jobsheet</h1>
