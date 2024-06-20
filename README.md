@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
-- 👋 Hi, I’m Hafiz Hafrienda
-- 👀 I’m interested in making project with C 
-- 🌱 I’m currently learning Data Struct and this is my report
+- 👋 Hi, I’m Hafiz Hafrienda\n
+- 👀 I’m interested in making project with C\n 
+- 🌱 I’m currently learning Data Struct and this is my report\n
 
 <hr>
 <table border="1" cellspasing="5" cellpadding="5" align="center">
